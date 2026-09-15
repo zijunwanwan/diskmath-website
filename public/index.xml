@@ -2,11 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Discrete Mathematics</title>
-    <link>http://localhost:1313/ta-website/</link>
+    <link>http://localhost:1313/diskmath-website/</link>
     <description>Recent content on Discrete Mathematics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/ta-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/diskmath-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/diskmath-website/materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diskmath-website/materials/</guid>
+      <description>&lt;h3 id=&#34;useful-links&#34;&gt;Useful links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://moodle-app2.let.ethz.ch/course/view.php?id=28577&#34;&gt;Moodle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://video.ethz.ch/lectures/d-infk/2026/autumn/252-0025-01L&#34;&gt;Lecture Recordings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;week-1-21092026&#34;&gt;Week 1 &lt;span class=&#34;week-date&#34;&gt;(21.09.2026)&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Topics: Introduction, propositional logic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../pdf/train-dialects.pdf&#34;&gt;Notes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

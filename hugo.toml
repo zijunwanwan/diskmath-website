@@ -2,3 +2,29 @@ baseURL = "https://zijunwanwan.github.io/diskmath-website/"
 languageCode = "en-us"
 title = "Discrete Mathematics"
 theme = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+name = "Materials"
+url = "/materials/"
+weight = 20
+
+[params.homeInfoParams]
+Content = "Welcome to the DiskMath HS26 exercise group! Our exercise session takes place every Monday from 16:15 to 18:00 in CHN E42. Notes from the sessions will be uploaded here. Feel free to join the WhatsApp group or send me an email if you have any questions!"
+
+[[params.socialIcons]]
+name = "whatsapp"
+url = "https://chat.whatsapp.com/KjVVfN6xVpr7KLrGS4SXfg?s=cl&p=a&mlu=4&ilr=4"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:zijwan@student.ethz.ch"
