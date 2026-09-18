@@ -12,15 +12,15 @@
       <link>http://localhost:1313/diskmath-website/materials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/diskmath-website/materials/</guid>
-      <description>&lt;h3 id=&#34;useful-links&#34;&gt;Useful links&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;extra-links&#34;&gt;Extra links&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://moodle-app2.let.ethz.ch/course/view.php?id=28577&#34;&gt;Moodle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://video.ethz.ch/lectures/d-infk/2026/autumn/252-0025-01L&#34;&gt;Lecture Recordings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discmath.ch/challenges&#34;&gt;DiskMath Challenges&lt;/a&gt; — A collection of more challenging DiskMath problems.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs.shivi.io/02-ETHZ/Ersti-Guide&#34;&gt;Ersti Guide&lt;/a&gt; — A guide to studying Computer Science at ETH, created by a student from a higher year.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;week-1-21092026&#34;&gt;Week 1 &lt;span class=&#34;week-date&#34;&gt;(21.09.2026)&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;week-1&#34;&gt;Week 1&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Topics: Introduction, propositional logic&lt;/p&gt;
+&lt;p&gt;Topics: Introduction, statements, implication, propositional logic&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;../pdf/train-dialects.pdf&#34;&gt;Notes&lt;/a&gt;&lt;/p&gt;
