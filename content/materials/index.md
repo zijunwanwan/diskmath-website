@@ -12,4 +12,4 @@ draft: false
 
 - Topics: Introduction, statements, implication, propositional logic.
 
-- [Notes](../pdf/train-dialects.pdf)
+- [Notes](../pdf/Week_1.pdf)
