@@ -21,3 +21,11 @@ draft: false
 - [Notes](../pdf/Week_2.pdf)
 
 - [Kahoot](https://create.kahoot.it/share/diskmath-week-2/09c3582b-74ae-4e56-875c-9181f956fb80)
+
+### Week 3
+
+- Topics: proof patterns.
+
+- [Notes](../pdf/Week_3.pdf)
+
+- [Kahoot](https://create.kahoot.it/share/diskmath-week-3/e6e1f238-0a5c-465b-8c55-1b3a88d2ce79)
