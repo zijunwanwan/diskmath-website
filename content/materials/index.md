@@ -29,3 +29,11 @@ draft: false
 - [Notes](../pdf/Week_3.pdf)
 
 - [Kahoot](https://create.kahoot.it/share/diskmath-week-3/e6e1f238-0a5c-465b-8c55-1b3a88d2ce79)
+
+### Week 4
+
+- Topics: set theory.
+
+- [Notes](../pdf/Week_4.pdf)
+
+- [Kahoot](https://create.kahoot.it/share/diskmath-week-4/9a129a61-2bb7-4c8b-a64c-453406ef841f)
