@@ -37,3 +37,11 @@ draft: false
 - [Notes](../pdf/Week_4.pdf)
 
 - [Kahoot](https://create.kahoot.it/share/diskmath-week-4/9a129a61-2bb7-4c8b-a64c-453406ef841f)
+
+### Week 5
+
+- Topics: relations.
+
+- [Notes](../pdf/Week_5.pdf)
+
+- [Kahoot](https://create.kahoot.it/share/diskmath-week-5/dd80f909-0f80-4bbc-80f9-d66fee61a9c4)
