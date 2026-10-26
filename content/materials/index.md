@@ -45,3 +45,9 @@ draft: false
 - [Notes](../pdf/Week_5.pdf)
 
 - [Kahoot](https://create.kahoot.it/share/diskmath-week-5/dd80f909-0f80-4bbc-80f9-d66fee61a9c4)
+
+### Week 5
+
+- Topics: functions, countability.
+
+- [Notes](../pdf/Week_6.pdf)
