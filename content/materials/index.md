@@ -46,8 +46,16 @@ draft: false
 
 - [Kahoot](https://create.kahoot.it/share/diskmath-week-5/dd80f909-0f80-4bbc-80f9-d66fee61a9c4)
 
-### Week 5
+### Week 6
 
 - Topics: functions, countability.
 
 - [Notes](../pdf/Week_6.pdf)
+
+### Week 7
+
+- Topics: number theory, divisibility.
+
+- [Notes](../pdf/Week_7.pdf)
+
+- [Kahoot](https://create.kahoot.it/share/diskmath-week-7/e404adb2-6023-4526-a274-5897e9f9bf3e)
