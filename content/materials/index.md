@@ -59,3 +59,9 @@ draft: false
 - [Notes](../pdf/Week_7.pdf)
 
 - [Kahoot](https://create.kahoot.it/share/diskmath-week-7/e404adb2-6023-4526-a274-5897e9f9bf3e)
+
+### Week 8
+
+- Topics: algebra.
+
+- [Notes](../pdf/Week_8.pdf)
