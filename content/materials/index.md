@@ -62,6 +62,12 @@ draft: false
 
 ### Week 8
 
-- Topics: algebra.
+- Topics: algebra: groups.
 
 - [Notes](../pdf/Week_8.pdf)
+
+### Week 9
+
+- Topics: algebra: RSA, rings, fields.
+
+- [Notes](../pdf/Week_9.pdf)
